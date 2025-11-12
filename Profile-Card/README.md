@@ -14,4 +14,5 @@ This is a simple **Profile Card** built using **HTML** and **CSS**. The card dis
 ## How to Use
 1. Clone the repository:
    ```bash
-git clone https://github.com/Niloynh/html-css-mini-projects.git
+   git clone https://github.com/Niloynh/html-css-mini-projects.git
+
